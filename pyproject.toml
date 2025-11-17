@@ -1,0 +1,9 @@
+[project]
+name = "myproject"
+version = "0.1.0"
+description = "A sample Python project using uv"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+dependencies = []
+requires-python = ">=3.8"
+
+[tool.uv]
